@@ -25,7 +25,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      {/* FIN BANNER */}
+      {/* END BANNER */}
 
       <MeetingTypeList />
     </section>
